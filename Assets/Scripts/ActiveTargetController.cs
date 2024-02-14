@@ -7,8 +7,6 @@ public class ActiveTargetController : MonoBehaviour
 
   public GameObject parent;
 
-
-  // Update is called once per frame
   void Update()
   {
     if (parent == null)

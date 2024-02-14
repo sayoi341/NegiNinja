@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class TargetController : MonoBehaviour
 {
   GameObject gameManager;
   Rigidbody rb;
   private bool flag = true;
+  public int score = 0;
 
   void Start()
   {
@@ -14,6 +16,14 @@ public class TargetController : MonoBehaviour
     rb = GetComponent<Rigidbody>();
     rb.AddForce(transform.up * 250);
     rb.angularVelocity = new Vector3(Random.Range(-10, 10), Random.Range(-10, 10), Random.Range(-10, 10));
+  }
+
+  void Update()
+  {
+    if (!gameManager.GetComponent<GameManager>().isGameActive)
+    {
+      Destroy(gameObject);
+    }
   }
 
   public void Destory()
@@ -26,7 +36,7 @@ public class TargetController : MonoBehaviour
 
     if (flag)
     {
-      gameManager.GetComponent<GameManager>().addScore(10);
+      gameManager.GetComponent<GameManager>().addScore(score);
       flag = false;
     }
     rb.useGravity = false;
