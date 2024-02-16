@@ -28,7 +28,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
+  m_LocalScale: {x: 0.15, y: 0.15, z: 0.15}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 210713654912462734}
@@ -59,9 +59,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!114 &3500448798202078268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -417,9 +417,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &719145290065445674 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7189199956679792708, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -471,9 +471,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &1167391461710023328 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 428781184087698998, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -525,9 +525,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!4 &1318014356639351677 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -584,9 +584,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &2174374321828628838 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 859294186832424432, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -638,9 +638,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &2215039608298903726 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 827915384126733368, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -692,9 +692,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &4019366941315724377 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2452094129521660111, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -746,9 +746,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &4370526790170554847 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6240013691315137207, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -800,9 +800,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &4509475944198287830 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6101007413941611200, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -854,9 +854,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &4697475803164712913 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3102708337556849849, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -908,9 +908,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &5940310919210993933 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5165636609501425051, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -962,9 +962,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &6190126447522218353 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4600566264652896793, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -1016,9 +1016,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &7046312808655308092 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -861957446753017430, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -1070,9 +1070,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &7064062904127584891 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8631335219396222701, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -1124,9 +1124,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &8277245164678706299 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1792836236321648403, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -1178,9 +1178,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &8633724312374926504 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2156915350126118850, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -1232,9 +1232,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &8669074757154818659 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7894392203133529845, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -1286,9 +1286,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &9002984897998332602 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7579902865020438060, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -1340,9 +1340,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1
 --- !u!1 &9017529287973381752 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7558321596334752494, guid: 8ab0bb122bb469949855854bb0f03d99, type: 3}
@@ -1394,6 +1394,6 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 2
+  m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 1

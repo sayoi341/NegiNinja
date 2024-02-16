@@ -5,55 +5,70 @@ ModelImporter:
   internalIDToNameTable: []
   externalObjects:
   - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: caab4a33f5bd7e64ca0806ddc81ed302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tex_Hologram_white
+    second: {fileID: 2100000, guid: f6a394fb47b1cf245a8d535eb3c1a07e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tex_wall_c
+    second: {fileID: 2100000, guid: 69b40e5cceb51994d8c38b252f135c79, type: 2}
+  - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Facade001_2K-JPG_Color
-    second: {fileID: 2800000, guid: 3ad232a77968dfc48b2a5f4a9ba80edd, type: 3}
+    second: {fileID: 2800000, guid: e07055e2cd7a2824e966141f8b2e0182, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Facade001_2K-JPG_Metalness
-    second: {fileID: 2800000, guid: c9a6bc1c211f162408cba28528d346f7, type: 3}
+    second: {fileID: 2800000, guid: 4428e8a3d50a0ac4eb9cc29640cb71b9, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Facade001_2K-JPG_NormalGL
-    second: {fileID: 2800000, guid: 17e250fc96c62ec4ba93db5eefdd5dc1, type: 3}
+    second: {fileID: 2800000, guid: e2f32161daf1c5c448fc8db807a76864, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Facade001_2K-JPG_Roughness
-    second: {fileID: 2800000, guid: a110593ba05df5f4eab0aa162c4d1a0c, type: 3}
+    second: {fileID: 2800000, guid: 18176b139c739904c9346c5f6fc87e3f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Facade009_2K_Color
-    second: {fileID: 2800000, guid: c21028f48e1136347bbd693344ece5e5, type: 3}
+    second: {fileID: 2800000, guid: d788bbf0a2e0b0142acd8659fdab6bbd, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Facade009_2K_Emission
-    second: {fileID: 2800000, guid: 8cfa618064260ee45bbbfe1353d7c9fd, type: 3}
+    second: {fileID: 2800000, guid: 6e6f134963ded114e8ae3d8b19ff904e, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Facade009_2K_Metalness
-    second: {fileID: 2800000, guid: b59beea2a1de33f45843099b3dc67bb4, type: 3}
+    second: {fileID: 2800000, guid: 9ecec39eb777d154698ce6fb66c03390, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Facade009_2K_NormalGL
-    second: {fileID: 2800000, guid: 138d9db58e6e8b64d8d61688c3d5f81a, type: 3}
+    second: {fileID: 2800000, guid: 1003f1bf38227e84cad7b5e8f6d9bb95, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Facade009_2K_Roughness
-    second: {fileID: 2800000, guid: 01349eb8182723842aeb7f08f12dc85c, type: 3}
+    second: {fileID: 2800000, guid: 643b397a8490f7f4b8d30aff9d03a6c1, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0

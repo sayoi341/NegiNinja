@@ -5,12 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
-    path: Assets/Samples/Meta XR Core SDK/60.0.0/Sample Scenes/ControllerDrivenHandPoses.unity
-    guid: 7ea9f7c90c2fa404d86276a633b59903
   - enabled: 1
     path: Assets/Scenes/guii.unity
     guid: 4e00240bd6cf3e641b244d32090939b7
