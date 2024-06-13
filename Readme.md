@@ -1,4 +1,4 @@
-#　　 NegiNinja 　 VR ゲーム
+# NegiNinja 　 VR ゲーム
 
 https://github.com/sayoi341/NegiNinja/assets/67829283/351fb593-0e19-44ca-8429-41c95520a50a
 
